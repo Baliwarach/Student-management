@@ -1,0 +1,11 @@
+C:\Users\sony\source\repos\StudentManagementDAL\bin\Debug\StudentManagementDAL.dll.config
+C:\Users\sony\source\repos\StudentManagementDAL\bin\Debug\StudentManagementDAL.dll
+C:\Users\sony\source\repos\StudentManagementDAL\bin\Debug\StudentManagementDAL.pdb
+C:\Users\sony\source\repos\StudentManagementDAL\bin\Debug\EntityFramework.dll
+C:\Users\sony\source\repos\StudentManagementDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sony\source\repos\StudentManagementDAL\bin\Debug\EntityFramework.xml
+C:\Users\sony\source\repos\StudentManagementDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sony\source\repos\StudentManagementDAL\obj\Debug\StudentManagementDAL.csproj.CopyComplete
+C:\Users\sony\source\repos\StudentManagementDAL\obj\Debug\StudentManagementDAL.dll
+C:\Users\sony\source\repos\StudentManagementDAL\obj\Debug\StudentManagementDAL.pdb
+C:\Users\sony\source\repos\StudentManagementDAL\obj\Debug\StudentManagementDAL.csprojAssemblyReference.cache

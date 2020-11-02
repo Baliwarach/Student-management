@@ -1,0 +1,78 @@
+﻿@model StudentManagementBusiness.Models.StudentRegistrationModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>StudentRegistrationModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.student.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.student.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.student.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.student.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.student.Gender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.student.Gender)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.student.IsActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.student.IsActive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.student.Hostel.HostelName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.student.Hostel.HostelName)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Courses Selected")
+        </dt>
+
+        <dd>
+            @if (Model.selectedCourses == null || Model.selectedCourses.Count <= 0)
+            { 
+                <div>
+                    None
+                </div>
+            }
+            @foreach (var item in Model.selectedCourses)
+            {
+                <div>
+                    @item.CourseName
+                    <hr />
+                </div>
+            }
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new {  id = Model.student.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

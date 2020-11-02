@@ -1,0 +1,14 @@
+C:\Users\sony\source\repos\StudentManagementBusiness\bin\Debug\StudentManagementBusiness.dll.config
+C:\Users\sony\source\repos\StudentManagementBusiness\bin\Debug\StudentManagementBusiness.dll
+C:\Users\sony\source\repos\StudentManagementBusiness\bin\Debug\StudentManagementBusiness.pdb
+C:\Users\sony\source\repos\StudentManagementBusiness\bin\Debug\EntityFramework.dll
+C:\Users\sony\source\repos\StudentManagementBusiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sony\source\repos\StudentManagementBusiness\bin\Debug\StudentManagementDAL.dll
+C:\Users\sony\source\repos\StudentManagementBusiness\bin\Debug\StudentManagementDAL.pdb
+C:\Users\sony\source\repos\StudentManagementBusiness\bin\Debug\StudentManagementDAL.dll.config
+C:\Users\sony\source\repos\StudentManagementBusiness\bin\Debug\EntityFramework.xml
+C:\Users\sony\source\repos\StudentManagementBusiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sony\source\repos\StudentManagementBusiness\obj\Debug\StudentManagementBusiness.csprojAssemblyReference.cache
+C:\Users\sony\source\repos\StudentManagementBusiness\obj\Debug\StudentManagementBusiness.csproj.CopyComplete
+C:\Users\sony\source\repos\StudentManagementBusiness\obj\Debug\StudentManagementBusiness.dll
+C:\Users\sony\source\repos\StudentManagementBusiness\obj\Debug\StudentManagementBusiness.pdb
